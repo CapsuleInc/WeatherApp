@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="weather.code.000">Tornado</string>
+    <string name="weather.code.001">Tropical Storm</string>
+    <string name="weather.code.002">Hurricane</string>
+    <string name="weather.code.003">Severe Thunder Storms</string>
+    <string name="weather.code.004">ThunderStorms</string>
+    <string name="weather.code.005">Mixed Rain Snow</string>
+    <string name="weather.code.006">Mixed Rain Sleet</string>
+    <string name="weather.code.007">Mixed Snow Sleet</string>
+    <string name="weather.code.008">Freezing Drizzle</string>
+    <string name="weather.code.009">Drizzle</string>
+
+    <string name="weather.code.010">Freezing Rain</string>
+    <string name="weather.code.011">Showers</string>
+    <string name="weather.code.012">Heavy Showers</string>
+    <string name="weather.code.013">Snow Flurries</string>
+    <string name="weather.code.014">Light Snow Showers</string>
+    <string name="weather.code.015">Blowing Snow</string>
+    <string name="weather.code.016">Snow</string>
+    <string name="weather.code.017">Hail</string>
+    <string name="weather.code.018">Sleet</string>
+    <string name="weather.code.019">Dust</string>
+    <string name="weather.code.020">Foggy</string>
+
+    <string name="weather.code.021">Haze</string>
+    <string name="weather.code.022">Smoky</string>
+    <string name="weather.code.023">Blustery</string>
+    <string name="weather.code.024">Windy</string>
+    <string name="weather.code.025">Cold</string>
+    <string name="weather.code.026">Cloudy</string>
+    <string name="weather.code.027">Mostly Cloudy At Night</string>
+    <string name="weather.code.028">Mostly Cloudy At Day</string>
+    <string name="weather.code.029">Partly Cloudy Night</string>
+    <string name="weather.code.030">Partly Couldy Day</string>
+    <string name="weather.code.031">Clear At Night</string>
+    <string name="weather.code.032">Sunny</string>
+    <string name="weather.code.033">Fair Night</string>
+    <string name="weather.code.034">Fair Day</string>
+    <string name="weather.code.035">Mixed Rain And Hail</string>
+    <string name="weather.code.036">Hot</string>
+    <string name="weather.code.037">Isolated ThunderStorms</string>
+    <string name="weather.code.038">Scattered ThunderStorms</string>
+    <string name="weather.code.039">Scattered ThunderStorms</string>
+    <string name="weather.code.040">Scattered Showers</string>
+    <string name="weather.code.041">Heavy Snow</string>
+    <string name="weather.code.042">Scattered Snow Showers</string>
+    <string name="weather.code.043">Partly Cloud</string>
+    <string name="weather.code.044">Thunder Showers</string>
+    <string name="weather.code.045">Snow Showers</string>
+    <string name="weather.code.046">Isolated Thunder Showers</string>
+    <string name="weather.code.047">Not Available</string>
+</resources>

@@ -1,0 +1,524 @@
+<root>
+    <item name='kotlin.ranges.RangesKt kotlin.ShortRange until(short, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ByteProgression step(kotlin.ByteProgression, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt byte coerceIn(byte, kotlin.Range&lt;java.lang.Byte&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongProgression downTo(long, byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean intRangeContains(kotlin.ClosedRange&lt;java.lang.Integer&gt;, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntProgression downTo(byte, byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongProgression step(kotlin.LongProgression, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean floatRangeContains(kotlin.Range&lt;java.lang.Float&gt;, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntProgression downTo(byte, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.CharRange until(char, char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ShortProgression downTo(byte, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean floatRangeContains(kotlin.Range&lt;java.lang.Float&gt;, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean byteRangeContains(kotlin.ClosedRange&lt;java.lang.Byte&gt;, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongRange until(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongProgression step(kotlin.LongProgression, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean shortRangeContains(kotlin.ClosedRange&lt;java.lang.Short&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongProgression step(kotlin.LongRange, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ShortProgression downTo(short, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt T coerceAtLeast(T, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ClosedRange&lt;T&gt; rangeTo(T, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntProgression downTo(byte, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean byteRangeContains(kotlin.Range&lt;java.lang.Byte&gt;, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.CharProgression reversed(kotlin.CharRange) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.CharProgression step(kotlin.CharProgression, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntProgression step(kotlin.IntRange, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ByteProgression reversed(kotlin.ByteProgression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean shortRangeContains(kotlin.ClosedRange&lt;java.lang.Short&gt;, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean doubleRangeContains(kotlin.Range&lt;java.lang.Double&gt;, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt long coerceIn(long, kotlin.ClosedRange&lt;java.lang.Long&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean doubleRangeContains(kotlin.Range&lt;java.lang.Double&gt;, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntRange until(int, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.ComparableRange boolean contains(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntRange until(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean shortRangeContains(kotlin.Range&lt;java.lang.Short&gt;, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntRange until(int, byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.CharProgression reversed(kotlin.CharProgression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean byteRangeContains(kotlin.Range&lt;java.lang.Byte&gt;, short) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.CharProgression step(kotlin.CharRange, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.CharProgression reversed(kotlin.CharProgression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean intRangeContains(kotlin.ClosedRange&lt;java.lang.Integer&gt;, short) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt T coerceAtLeast(T, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean shortRangeContains(kotlin.ClosedRange&lt;java.lang.Short&gt;, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ShortRange until(short, byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt long coerceIn(long, kotlin.Range&lt;java.lang.Long&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongProgression downTo(long, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongRange until(int, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongProgression downTo(byte, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ShortProgression reversed(kotlin.ShortProgression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntProgression reversed(kotlin.IntRange) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean floatRangeContains(kotlin.Range&lt;java.lang.Float&gt;, short) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean byteRangeContains(kotlin.ClosedRange&lt;java.lang.Byte&gt;, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean intRangeContains(kotlin.ClosedRange&lt;java.lang.Integer&gt;, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntProgression step(kotlin.IntRange, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ShortProgression reversed(kotlin.ShortRange)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongProgression reversed(kotlin.LongRange) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean shortRangeContains(kotlin.Range&lt;java.lang.Short&gt;, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean longRangeContains(kotlin.Range&lt;java.lang.Long&gt;, short) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntProgression downTo(short, byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.ComparableRange ComparableRange(T, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean doubleRangeContains(kotlin.Range&lt;java.lang.Double&gt;, short) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean floatRangeContains(kotlin.ClosedRange&lt;java.lang.Float&gt;, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean floatRangeContains(kotlin.ClosedRange&lt;java.lang.Float&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt int coerceIn(int, kotlin.ClosedRange&lt;java.lang.Integer&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.CharProgression downTo(char, char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ShortProgression step(kotlin.ShortProgression, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntProgression reversed(kotlin.IntRange)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.ComparableRange T getEnd()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean floatRangeContains(kotlin.ClosedRange&lt;java.lang.Float&gt;, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt T coerceAtLeast(T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt T coerceIn(T, kotlin.ClosedRange&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean doubleRangeContains(kotlin.ClosedRange&lt;java.lang.Double&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean byteRangeContains(kotlin.Range&lt;java.lang.Byte&gt;, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ShortProgression downTo(short, byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean longRangeContains(kotlin.ClosedRange&lt;java.lang.Long&gt;, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ByteProgression step(kotlin.ByteProgression, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean longRangeContains(kotlin.Range&lt;java.lang.Long&gt;, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean intRangeContains(kotlin.Range&lt;java.lang.Integer&gt;, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ShortRange until(byte, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongProgression downTo(long, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ByteProgression step(kotlin.ByteRange, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean doubleRangeContains(kotlin.ClosedRange&lt;java.lang.Double&gt;, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongRange until(long, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.ComparableRange ComparableRange(T, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean longRangeContains(kotlin.Range&lt;java.lang.Long&gt;, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ByteProgression downTo(byte, byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ByteRange until(byte, byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ClosedRange&lt;T&gt; rangeTo(T, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean doubleRangeContains(kotlin.ClosedRange&lt;java.lang.Double&gt;, short) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean longRangeContains(kotlin.ClosedRange&lt;java.lang.Long&gt;, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongProgression step(kotlin.LongRange, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ShortProgression reversed(kotlin.ShortRange) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean shortRangeContains(kotlin.ClosedRange&lt;java.lang.Short&gt;, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean longRangeContains(kotlin.Range&lt;java.lang.Long&gt;, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ShortProgression step(kotlin.ShortRange, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.ComparableRange java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ClosedRange&lt;T&gt; rangeTo(T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt T coerceAtMost(T, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntRange until(byte, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean shortRangeContains(kotlin.Range&lt;java.lang.Short&gt;, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt T coerceIn(T, kotlin.Range&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean byteRangeContains(kotlin.ClosedRange&lt;java.lang.Byte&gt;, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongProgression downTo(short, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.CharProgression step(kotlin.CharProgression, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ByteProgression reversed(kotlin.ByteProgression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongProgression downTo(int, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean intRangeContains(kotlin.Range&lt;java.lang.Integer&gt;, short) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ByteProgression reversed(kotlin.ByteRange)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntProgression downTo(short, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean longRangeContains(kotlin.Range&lt;java.lang.Long&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean intRangeContains(kotlin.Range&lt;java.lang.Integer&gt;, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongProgression reversed(kotlin.LongProgression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntRange until(byte, byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt T coerceAtMost(T, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongRange until(long, byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt T coerceAtMost(T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean shortRangeContains(kotlin.ClosedRange&lt;java.lang.Short&gt;, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean byteRangeContains(kotlin.ClosedRange&lt;java.lang.Byte&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean doubleRangeContains(kotlin.ClosedRange&lt;java.lang.Double&gt;, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntProgression reversed(kotlin.IntProgression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean intRangeContains(kotlin.ClosedRange&lt;java.lang.Integer&gt;, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt T coerceIn(T, kotlin.Range&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntProgression downTo(short, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt double coerceIn(double, kotlin.Range&lt;java.lang.Double&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean longRangeContains(kotlin.ClosedRange&lt;java.lang.Long&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean shortRangeContains(kotlin.Range&lt;java.lang.Short&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt T coerceIn(T, kotlin.Range&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntProgression downTo(int, byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongProgression downTo(long, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntRange until(short, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt short coerceIn(short, kotlin.Range&lt;java.lang.Short&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean floatRangeContains(kotlin.Range&lt;java.lang.Float&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.ComparableRange T getStart()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean longRangeContains(kotlin.ClosedRange&lt;java.lang.Long&gt;, short) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean longRangeContains(kotlin.ClosedRange&lt;java.lang.Long&gt;, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt float coerceIn(float, kotlin.Range&lt;java.lang.Float&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.CharProgression reversed(kotlin.CharRange)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean byteRangeContains(kotlin.Range&lt;java.lang.Byte&gt;, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean floatRangeContains(kotlin.Range&lt;java.lang.Float&gt;, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt void checkStepIsPositive(boolean, java.lang.Number) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntProgression step(kotlin.IntProgression, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ShortProgression reversed(kotlin.ShortProgression)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean doubleRangeContains(kotlin.Range&lt;java.lang.Double&gt;, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean floatRangeContains(kotlin.ClosedRange&lt;java.lang.Float&gt;, short) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.ComparableRange T getEndInclusive()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntRange until(short, byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean floatRangeContains(kotlin.ClosedRange&lt;java.lang.Float&gt;, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ByteProgression reversed(kotlin.ByteRange) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean doubleRangeContains(kotlin.Range&lt;java.lang.Double&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt T coerceIn(T, kotlin.ClosedRange&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean intRangeContains(kotlin.Range&lt;java.lang.Integer&gt;, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntRange until(byte, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntRange until(short, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.CharProgression step(kotlin.CharRange, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean byteRangeContains(kotlin.ClosedRange&lt;java.lang.Byte&gt;, short) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongProgression reversed(kotlin.LongProgression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt T coerceIn(T, T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean intRangeContains(kotlin.ClosedRange&lt;java.lang.Integer&gt;, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ShortProgression step(kotlin.ShortProgression, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongProgression reversed(kotlin.LongRange)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongRange until(long, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntProgression downTo(int, short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean doubleRangeContains(kotlin.ClosedRange&lt;java.lang.Double&gt;, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean byteRangeContains(kotlin.Range&lt;java.lang.Byte&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean intRangeContains(kotlin.Range&lt;java.lang.Integer&gt;, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ByteProgression step(kotlin.ByteRange, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntProgression downTo(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.ShortProgression step(kotlin.ShortRange, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt T coerceIn(T, kotlin.ClosedRange&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntProgression step(kotlin.IntProgression, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt int coerceIn(int, kotlin.Range&lt;java.lang.Integer&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt boolean shortRangeContains(kotlin.Range&lt;java.lang.Short&gt;, byte) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongRange until(short, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.LongRange until(byte, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.ranges.RangesKt kotlin.IntProgression reversed(kotlin.IntProgression) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BaseTheme">
+        <attr name="actionBarIconColor" format="color"/>
+        <attr name="actionBarInsetColor" format="dimension"/>
+        <attr name="spinnerBarInsetStart" format="dimension"/>
+        <attr name="popupItemBackground" format="reference"/>
+        <attr name="photoItemBackground" format="reference"/>
+        <attr name="photoItemBackgroundBorderless" format="reference"/>
+        <attr name="imageItemBackground" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="OpenTextView">
+        <attr name="fontVariation" format="enum">
+            <enum name="normal" value="0"/>
+            <enum name="light" value="1"/>
+            <enum name="medium" value="2"/>
+            <enum name="thin" value="3"/>
+            <enum name="special" value="4"/>
+        </attr>
+        <attr name="fixWidowWords" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="ScrimInsetsView">
+        <attr name="InsetForeground" format="color|reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="AspectRatioView">
+        <attr name="aspectRatio" format="float"/>
+    </declare-styleable>
+</resources>

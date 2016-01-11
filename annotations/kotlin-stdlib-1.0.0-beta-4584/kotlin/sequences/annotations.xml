@@ -1,0 +1,1316 @@
+<root>
+    <item name='kotlin.sequences.SequencesKt___SequencesKt.minus.1 java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.ConstrainedOnceSequence java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt double averageOfDouble(kotlin.Sequence&lt;java.lang.Double&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; requireNoNulls(kotlin.Sequence&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt___SequencesKt.minus.3 java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.MergingSequence kotlin.Sequence access$getSequence2$p(kotlin.sequences.MergingSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; sortedWith(kotlin.Sequence&lt;? extends T&gt;, java.util.Comparator&lt;? super T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.MergingSequence kotlin.jvm.functions.Function2 access$getTransform$p(kotlin.sequences.MergingSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FilteringSequence kotlin.Sequence access$getSequence$p(kotlin.sequences.FilteringSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T first(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt double averageOfShort(kotlin.Sequence&lt;java.lang.Short&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T last(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.List&lt;T&gt; toList(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T minWith(kotlin.Sequence&lt;? extends T&gt;, java.util.Comparator&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T last(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T minWith(kotlin.Sequence&lt;? extends T&gt;, java.util.Comparator&lt;? super T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.Appendable joinTo$default(kotlin.Sequence, java.lang.Appendable, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1, int) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; filterIndexed(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt___SequencesKt.sorted.1 java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.DropWhileSequence kotlin.jvm.functions.Function1 access$getPredicate$p(kotlin.sequences.DropWhileSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;kotlin.Pair&lt;T,R&gt;&gt; zip(kotlin.Sequence&lt;? extends T&gt;, kotlin.Sequence&lt;? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.EmptySequence java.util.Iterator iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;R&gt; filterIsInstance(kotlin.Sequence&lt;?&gt;, java.lang.Class&lt;R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterIsInstanceTo(kotlin.Sequence&lt;?&gt;, C, java.lang.Class&lt;R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; take(kotlin.Sequence&lt;? extends T&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C mapIndexedNotNullTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; dropWhile(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,T&gt; toMap(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; requireNoNulls(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.DropWhileSequence java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TransformingIndexedSequence kotlin.Sequence access$getSequence$p(kotlin.sequences.TransformingIndexedSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;R&gt; filterIsInstance(kotlin.Sequence&lt;?&gt;, java.lang.Class&lt;R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; emptySequence()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.DropSequence kotlin.Sequence access$getSequence$p(kotlin.sequences.DropSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; sortedWith(kotlin.Sequence&lt;? extends T&gt;, java.util.Comparator&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T first(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C mapNotNullTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TakeWhileSequence.iterator.1 java.util.Iterator&lt;T&gt; getIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T maxWith(kotlin.Sequence&lt;? extends T&gt;, java.util.Comparator&lt;? super T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.Appendable joinTo$default(kotlin.Sequence, java.lang.Appendable, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1, int) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T singleOrNull(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.EmptySequence INSTANCE$'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.SortedSet&lt;T&gt; toSortedSet(kotlin.Sequence&lt;? extends T&gt;, java.util.Comparator&lt;? super T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt boolean any(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt void forEachIndexed(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterIsInstanceTo(kotlin.Sequence&lt;?&gt;, C)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FlatteningSequence kotlin.jvm.functions.Function1 access$getTransformer$p(kotlin.sequences.FlatteningSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;R&gt; filterIsInstance(kotlin.Sequence&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TransformingSequence kotlin.jvm.functions.Function1 access$getTransformer$p(kotlin.sequences.TransformingSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TransformingSequence kotlin.Sequence access$getSequence$p(kotlin.sequences.TransformingSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;kotlin.Pair&lt;T,R&gt;&gt; zip(kotlin.Sequence&lt;? extends T&gt;, kotlin.Sequence&lt;? extends R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TransformingIndexedSequence.iterator.1 java.util.Iterator&lt;T&gt; getIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; plus(kotlin.Sequence&lt;? extends T&gt;, kotlin.Sequence&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FilteringSequence FilteringSequence(kotlin.Sequence, boolean, kotlin.jvm.functions.Function1, int, kotlin.jvm.internal.DefaultConstructorMarker) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,V&gt; toMap(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.EmptySequence INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt double sumByDouble(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Double&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C mapIndexedNotNullTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends R&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T singleOrNull(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; distinctBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt double sumByDouble(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Double&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T firstOrNull(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; sequence(kotlin.jvm.functions.Function0&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; asSequence(java.util.Iterator&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,java.util.List&lt;T&gt;&gt; groupBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt double averageOfFloat(kotlin.Sequence&lt;java.lang.Float&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;R&gt; mapNotNull(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T maxWith(kotlin.Sequence&lt;? extends T&gt;, java.util.Comparator&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C mapNotNullTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FilteringSequence kotlin.Sequence access$getSequence$p(kotlin.sequences.FilteringSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.DistinctSequence java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; filterNotNull(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.IndexingSequence.iterator.1 kotlin.IndexedValue&lt;T&gt; next()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt boolean any(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.SortedSet&lt;T&gt; toSortedSet(kotlin.Sequence&lt;? extends T&gt;, java.util.Comparator&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.DropWhileSequence DropWhileSequence(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Set&lt;T&gt; toSet(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;kotlin.Pair&lt;T,R&gt;&gt; zip(kotlin.Sequence&lt;? extends T&gt;, kotlin.Sequence&lt;? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TakeSequence java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C mapTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.IndexingSequence.iterator.1 java.util.Iterator&lt;T&gt; getIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Pair&lt;java.util.List&lt;T&gt;,java.util.List&lt;R&gt;&gt; unzip(kotlin.Sequence&lt;? extends kotlin.Pair&lt;? extends T,? extends R&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C mapIndexedNotNullTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; minus(kotlin.Sequence&lt;? extends T&gt;, kotlin.Sequence&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TransformingSequence kotlin.jvm.functions.Function1 access$getTransformer$p(kotlin.sequences.TransformingSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; filter(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FilteringSequence kotlin.jvm.functions.Function1 access$getPredicate$p(kotlin.sequences.FilteringSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C mapNotNullTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.DropWhileSequence DropWhileSequence(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt long sumOfLong(kotlin.Sequence&lt;java.lang.Long&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt int sumOfShort(kotlin.Sequence&lt;java.lang.Short&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt int lastIndexOfRaw(kotlin.Sequence&lt;?&gt;, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FilteringSequence FilteringSequence(kotlin.Sequence, boolean, kotlin.jvm.functions.Function1, int, kotlin.jvm.internal.DefaultConstructorMarker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FlatteningSequence.iterator.1 java.util.Iterator&lt;T&gt; getIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C mapTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TransformingIndexedSequence kotlin.jvm.functions.Function2 access$getTransformer$p(kotlin.sequences.TransformingIndexedSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; filter(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T lastOrNull(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FilteringSequence FilteringSequence(kotlin.Sequence&lt;? extends T&gt;, boolean, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.HashSet&lt;T&gt; toHashSet(kotlin.Sequence&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T last(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.Iterable&lt;T&gt; asIterable(kotlin.Sequence&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt void forEachIndexed(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TransformingSequence.iterator.1 java.util.Iterator&lt;T&gt; getIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; drop(kotlin.Sequence&lt;? extends T&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString$default(kotlin.Sequence, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,T&gt; toMapBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C mapTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;kotlin.IndexedValue&lt;T&gt;&gt; withIndex(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; sequence(kotlin.jvm.functions.Function0&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.SortedSet&lt;T&gt; toSortedSet(kotlin.Sequence&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; minus(kotlin.Sequence&lt;? extends T&gt;, T[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TakeWhileSequence kotlin.jvm.functions.Function1 access$getPredicate$p(kotlin.sequences.TakeWhileSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,java.util.List&lt;T&gt;&gt; groupBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T lastOrNull(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; sortedDescending(kotlin.Sequence&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; sortedByDescending(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TransformingSequence TransformingSequence(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; takeWhile(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.DropWhileSequence.iterator.1 java.util.Iterator&lt;T&gt; getIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; plus(kotlin.Sequence&lt;? extends T&gt;, java.lang.Iterable&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;R&gt; mapIndexedNotNull(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; sequenceOf(T...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString(kotlin.Sequence&lt;? extends T&gt;, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super T,? extends java.lang.CharSequence&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;R&gt; flatMap(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Sequence&lt;? extends R&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.Appendable joinTo$default(kotlin.Sequence, java.lang.Appendable, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1, int) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt A joinTo(kotlin.Sequence&lt;? extends T&gt;, A, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1&lt;? super T,java.lang.String&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; minus(kotlin.Sequence&lt;? extends T&gt;, T[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.DropSequence DropSequence(kotlin.Sequence&lt;? extends T&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt__SequencesKt.sequenceOf.1 java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString(kotlin.Sequence&lt;? extends T&gt;, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super T,? extends java.lang.CharSequence&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.MergingSequence kotlin.Sequence access$getSequence1$p(kotlin.sequences.MergingSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString$default(kotlin.Sequence, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,V&gt; toMap(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString$default(kotlin.Sequence, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;R&gt; flatMap(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Sequence&lt;? extends R&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; takeWhile(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T min(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.DropWhileSequence kotlin.jvm.functions.Function1 access$getPredicate$p(kotlin.sequences.DropWhileSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TransformingSequence TransformingSequence(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.GeneratorSequence java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TransformingSequence kotlin.Sequence&lt;E&gt; flatten$kotlin_stdlib(kotlin.jvm.functions.Function1&lt;? super R,? extends java.util.Iterator&lt;? extends E&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt int sumBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Integer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString(kotlin.Sequence&lt;? extends T&gt;, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super T,? extends java.lang.CharSequence&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;R&gt; mapIndexedNotNull(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt boolean contains(kotlin.Sequence&lt;? extends T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt A joinTo(kotlin.Sequence&lt;? extends T&gt;, A, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1&lt;? super T,java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString(kotlin.Sequence&lt;? extends T&gt;, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1&lt;? super T,java.lang.String&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.IndexingSequence IndexingSequence(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.Appendable joinTo$default(kotlin.Sequence, java.lang.Appendable, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1, int) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Pair&lt;java.util.List&lt;T&gt;,java.util.List&lt;T&gt;&gt; partition(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; plus(kotlin.Sequence&lt;? extends T&gt;, java.lang.Iterable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt A joinTo(kotlin.Sequence&lt;? extends T&gt;, A, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super T,? extends java.lang.CharSequence&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt___SequencesKt.asIterable.1 java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; asSequence(kotlin.Sequence&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString$default(kotlin.Sequence, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FilteringSequence FilteringSequence(kotlin.Sequence&lt;? extends T&gt;, boolean, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString$default(kotlin.Sequence, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,V&gt; toMap(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T firstOrNull(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt int sumBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Integer&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; sequenceOf(T...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FilteringSequence.iterator.1 java.util.Iterator&lt;T&gt; getIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.IndexingSequence.iterator.1 java.lang.Object next()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString(kotlin.Sequence&lt;? extends T&gt;, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1&lt;? super T,java.lang.String&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt double averageOfInt(kotlin.Sequence&lt;java.lang.Integer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString(kotlin.Sequence&lt;? extends T&gt;, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super T,? extends java.lang.CharSequence&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FilteringSequence java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.Appendable joinTo$default(kotlin.Sequence, java.lang.Appendable, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T elementAtOrElse(kotlin.Sequence&lt;? extends T&gt;, int, kotlin.jvm.functions.Function1&lt;? super java.lang.Integer,? extends T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T maxBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt A joinTo(kotlin.Sequence&lt;? extends T&gt;, A, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1&lt;? super T,java.lang.String&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,V&gt; toMap(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends V&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString$default(kotlin.Sequence, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T find(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Pair&lt;java.util.List&lt;T&gt;,java.util.List&lt;T&gt;&gt; partition(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C mapIndexedTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString(kotlin.Sequence&lt;? extends T&gt;, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1&lt;? super T,java.lang.String&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.LinkedList&lt;T&gt; toLinkedList(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt double sumOfDouble(kotlin.Sequence&lt;java.lang.Double&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt int indexOfRaw(kotlin.Sequence&lt;?&gt;, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString$default(kotlin.Sequence, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1, int) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.Appendable joinTo$default(kotlin.Sequence, java.lang.Appendable, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.DropWhileSequence kotlin.Sequence access$getSequence$p(kotlin.sequences.DropWhileSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; constrainOnce(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T maxBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T find(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString$default(kotlin.Sequence, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt int indexOfLast(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString(kotlin.Sequence&lt;? extends T&gt;, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1&lt;? super T,java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.Appendable joinTo$default(kotlin.Sequence, java.lang.Appendable, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C mapNotNullTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt int sumOfInt(kotlin.Sequence&lt;java.lang.Integer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,java.util.List&lt;T&gt;&gt; groupByTo(kotlin.Sequence&lt;? extends T&gt;, java.util.Map&lt;K,java.util.List&lt;T&gt;&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.MergingSequence java.util.Iterator&lt;V&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterIndexedTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,java.lang.Boolean&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;kotlin.IndexedValue&lt;T&gt;&gt; withIndex(kotlin.Sequence&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T single(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; distinct(kotlin.Sequence&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.Appendable joinTo$default(kotlin.Sequence, java.lang.Appendable, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C mapIndexedTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt int indexOfLast(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString(kotlin.Sequence&lt;? extends T&gt;, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1&lt;? super T,java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,java.util.List&lt;T&gt;&gt; groupByTo(kotlin.Sequence&lt;? extends T&gt;, java.util.Map&lt;K,java.util.List&lt;T&gt;&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T single(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FlatteningSequence kotlin.Sequence access$getSequence$p(kotlin.sequences.FlatteningSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; filter(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.Appendable joinTo$default(kotlin.Sequence, java.lang.Appendable, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; dropWhile(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C mapIndexedTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends R&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.IndexingSequence kotlin.Sequence access$getSequence$p(kotlin.sequences.IndexingSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.Appendable joinTo$default(kotlin.Sequence, java.lang.Appendable, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.Appendable joinTo$default(kotlin.Sequence, java.lang.Appendable, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1, int) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString$default(kotlin.Sequence, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString(kotlin.Sequence&lt;? extends T&gt;, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super T,? extends java.lang.CharSequence&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.IndexingSequence kotlin.Sequence access$getSequence$p(kotlin.sequences.IndexingSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt___SequencesKt.minus.4 java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterIndexedTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,java.util.List&lt;T&gt;&gt; groupByTo(kotlin.Sequence&lt;? extends T&gt;, java.util.Map&lt;K,java.util.List&lt;T&gt;&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt int indexOfAny(kotlin.Sequence&lt;? extends T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;R&gt; map(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString$default(kotlin.Sequence, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt___SequencesKt.sortedWith.1 java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; flattenSequenceOfIterable(kotlin.Sequence&lt;? extends java.lang.Iterable&lt;? extends T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; dropWhile(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Pair&lt;java.util.List&lt;T&gt;,java.util.List&lt;T&gt;&gt; partition(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.Appendable joinTo$default(kotlin.Sequence, java.lang.Appendable, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; filterNot(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterIndexedTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TakeWhileSequence kotlin.Sequence access$getSequence$p(kotlin.sequences.TakeWhileSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString$default(kotlin.Sequence, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,java.util.List&lt;T&gt;&gt; groupByTo(kotlin.Sequence&lt;? extends T&gt;, java.util.Map&lt;K,java.util.List&lt;T&gt;&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;R&gt; map(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.DropWhileSequence kotlin.Sequence access$getSequence$p(kotlin.sequences.DropWhileSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; minus(kotlin.Sequence&lt;? extends T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.HashSet&lt;T&gt; toHashSet(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T first(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C mapIndexedTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.DropSequence.iterator.1 java.util.Iterator&lt;T&gt; getIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt A joinTo(kotlin.Sequence&lt;? extends T&gt;, A, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super T,? extends java.lang.CharSequence&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C mapIndexedNotNullTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T single(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TransformingIndexedSequence TransformingIndexedSequence(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt boolean all(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; flatten(kotlin.Sequence&lt;? extends kotlin.Sequence&lt;? extends T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.DistinctSequence DistinctSequence(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt boolean none(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; sequenceOf(kotlin.Progression&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.ArrayList&lt;T&gt; toArrayList(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Set&lt;T&gt; toMutableSet(kotlin.Sequence&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt A joinTo(kotlin.Sequence&lt;? extends T&gt;, A, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super T,? extends java.lang.CharSequence&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TransformingIndexedSequence TransformingIndexedSequence(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString(kotlin.Sequence&lt;? extends T&gt;, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super T,? extends java.lang.CharSequence&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt boolean all(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.GeneratorSequence GeneratorSequence(kotlin.jvm.functions.Function0&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; filterNot(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;R&gt; mapNotNull(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;R&gt; filterIsInstance(kotlin.Sequence&lt;?&gt;, java.lang.Class&lt;R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TransformingSequence java.util.Iterator&lt;R&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TakeSequence kotlin.Sequence access$getSequence$p(kotlin.sequences.TakeSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TakeWhileSequence TakeWhileSequence(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; distinctBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;R&gt; mapNotNull(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.MergingSequence kotlin.jvm.functions.Function2 access$getTransform$p(kotlin.sequences.MergingSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.GeneratorSequence GeneratorSequence(kotlin.jvm.functions.Function0&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt A joinTo(kotlin.Sequence&lt;? extends T&gt;, A, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super T,? extends java.lang.CharSequence&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TakeWhileSequence TakeWhileSequence(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Set&lt;T&gt; toMutableSet(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt A joinTo(kotlin.Sequence&lt;? extends T&gt;, A, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super T,? extends java.lang.CharSequence&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.DropSequence kotlin.Sequence access$getSequence$p(kotlin.sequences.DropSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; distinctBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt int lastIndexOf(kotlin.Sequence&lt;? extends T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; filterIndexed(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt A joinTo(kotlin.Sequence&lt;? extends T&gt;, A, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1&lt;? super T,java.lang.String&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; sorted(kotlin.Sequence&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.Appendable joinTo$default(kotlin.Sequence, java.lang.Appendable, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt R fold(kotlin.Sequence&lt;? extends T&gt;, R, kotlin.jvm.functions.Function2&lt;? super R,? super T,? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString$default(kotlin.Sequence, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1, int) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.Appendable joinTo$default(kotlin.Sequence, java.lang.Appendable, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;R&gt; mapIndexed(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,V&gt; toMapBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.DropSequence int access$getCount$p(kotlin.sequences.DropSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TransformingSequence kotlin.Sequence access$getSequence$p(kotlin.sequences.TransformingSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Pair&lt;java.util.List&lt;T&gt;,java.util.List&lt;R&gt;&gt; unzip(kotlin.Sequence&lt;? extends kotlin.Pair&lt;? extends T,? extends R&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.GeneratorSequence.iterator.1 T next()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C toCollection(kotlin.Sequence&lt;? extends T&gt;, C) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt int count(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,T&gt; toMap(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; distinct(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt__SequencesKt.asSequence.iteratorSequence.1 java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterIndexedTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; flatten(kotlin.Sequence&lt;? extends kotlin.Sequence&lt;? extends T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;V&gt; zip(kotlin.Sequence&lt;? extends T&gt;, kotlin.Sequence&lt;? extends R&gt;, kotlin.jvm.functions.Function2&lt;? super T,? super R,? extends V&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FlatteningSequence kotlin.jvm.functions.Function1 access$getIterator$p(kotlin.sequences.FlatteningSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt A joinTo(kotlin.Sequence&lt;? extends T&gt;, A, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1&lt;? super T,java.lang.String&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,V&gt; toMapOfPairs(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Pair&lt;? extends K,? extends V&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; plus(kotlin.Sequence&lt;? extends T&gt;, T[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; filterIndexed(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;R&gt; map(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.ConstrainedOnceSequence ConstrainedOnceSequence(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,V&gt; toMapBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt R fold(kotlin.Sequence&lt;? extends T&gt;, R, kotlin.jvm.functions.Function2&lt;? super R,? super T,? extends R&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt boolean containsAny(kotlin.Sequence&lt;? extends T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt int count(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt int indexOf(kotlin.Sequence&lt;? extends T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,T&gt; toMap(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt A joinTo(kotlin.Sequence&lt;? extends T&gt;, A, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1&lt;? super T,java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;V&gt; zip(kotlin.Sequence&lt;? extends T&gt;, kotlin.Sequence&lt;? extends R&gt;, kotlin.jvm.functions.Function2&lt;? super T,? super R,? extends V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt A joinTo(kotlin.Sequence&lt;? extends T&gt;, A, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super T,? extends java.lang.CharSequence&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; plus(kotlin.Sequence&lt;? extends T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt boolean any(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; sequenceOf(kotlin.Progression&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C mapTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt A joinTo(kotlin.Sequence&lt;? extends T&gt;, A, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1&lt;? super T,java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;V&gt; zip(kotlin.Sequence&lt;? extends T&gt;, kotlin.Sequence&lt;? extends R&gt;, kotlin.jvm.functions.Function2&lt;? super T,? super R,? extends V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C flatMapTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Sequence&lt;? extends R&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;R&gt; mapIndexed(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt A joinTo(kotlin.Sequence&lt;? extends T&gt;, A, java.lang.CharSequence, java.lang.CharSequence, java.lang.CharSequence, int, java.lang.CharSequence, kotlin.jvm.functions.Function1&lt;? super T,? extends java.lang.CharSequence&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;V&gt; zip(kotlin.Sequence&lt;? extends T&gt;, kotlin.Sequence&lt;? extends R&gt;, kotlin.jvm.functions.Function2&lt;? super T,? super R,? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt double averageOfByte(kotlin.Sequence&lt;java.lang.Byte&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; sequence(kotlin.jvm.functions.Function0&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C toCollection(kotlin.Sequence&lt;? extends T&gt;, C) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; sortedBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T firstOrNull(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; sequence(kotlin.jvm.functions.Function0&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterNotTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TakeSequence kotlin.Sequence access$getSequence$p(kotlin.sequences.TakeSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; minus(kotlin.Sequence&lt;? extends T&gt;, java.lang.Iterable&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.ArrayList&lt;T&gt; toArrayList(kotlin.Sequence&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,T&gt; toMapBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,V&gt; toMapOfPairs(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Pair&lt;? extends K,? extends V&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; constrainOnce(kotlin.Sequence&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; filterNotNull(kotlin.Sequence&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FlatteningSequence FlatteningSequence(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;, kotlin.jvm.functions.Function1&lt;? super R,? extends java.util.Iterator&lt;? extends E&gt;&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TakeSequence.iterator.1 java.util.Iterator&lt;T&gt; getIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C toCollection(kotlin.Sequence&lt;? extends T&gt;, C)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt int indexOfFirst(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C flatMapTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Sequence&lt;? extends R&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt S reduce(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super S,? super T,? extends S&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TakeSequence TakeSequence(kotlin.Sequence&lt;? extends T&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.LinkedList&lt;T&gt; toLinkedList(kotlin.Sequence&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TakeWhileSequence java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.MergingSequence.iterator.1 java.util.Iterator&lt;T2&gt; getIterator2()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt___SequencesKt.minus.2 java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterNotTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.GeneratorSequence kotlin.jvm.functions.Function0 access$getGetInitialValue$p(kotlin.sequences.GeneratorSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt double averageOfLong(kotlin.Sequence&lt;java.lang.Long&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FlatteningSequence kotlin.jvm.functions.Function1 access$getTransformer$p(kotlin.sequences.FlatteningSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.GeneratorSequence kotlin.jvm.functions.Function0 access$getGetInitialValue$p(kotlin.sequences.GeneratorSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.MergingSequence MergingSequence(kotlin.Sequence&lt;? extends T1&gt;, kotlin.Sequence&lt;? extends T2&gt;, kotlin.jvm.functions.Function2&lt;? super T1,? super T2,? extends V&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt S reduce(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super S,? super T,? extends S&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;R&gt; mapIndexedNotNull(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T max(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt int sumOfByte(kotlin.Sequence&lt;java.lang.Byte&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C flatMapTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Sequence&lt;? extends R&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FlatteningSequence FlatteningSequence(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;, kotlin.jvm.functions.Function1&lt;? super R,? extends java.util.Iterator&lt;? extends E&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; plus(kotlin.Sequence&lt;? extends T&gt;, kotlin.Sequence&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt boolean none(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TransformingIndexedSequence kotlin.Sequence access$getSequence$p(kotlin.sequences.TransformingIndexedSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FilteringSequence boolean access$getSendWhen$p(kotlin.sequences.FilteringSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterNotTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.DistinctIterator DistinctIterator(java.util.Iterator&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.MergingSequence kotlin.Sequence access$getSequence1$p(kotlin.sequences.MergingSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Set&lt;T&gt; toSet(kotlin.Sequence&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TakeWhileSequence kotlin.jvm.functions.Function1 access$getPredicate$p(kotlin.sequences.TakeWhileSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.MergingSequence MergingSequence(kotlin.Sequence&lt;? extends T1&gt;, kotlin.Sequence&lt;? extends T2&gt;, kotlin.jvm.functions.Function2&lt;? super T1,? super T2,? extends V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.MergingSequence kotlin.Sequence access$getSequence2$p(kotlin.sequences.MergingSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; sequence(kotlin.jvm.functions.Function0&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.List&lt;T&gt; toList(kotlin.Sequence&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;R&gt; flatMap(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Sequence&lt;? extends R&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FlatteningSequence kotlin.Sequence access$getSequence$p(kotlin.sequences.FlatteningSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TransformingIndexedSequence java.util.Iterator&lt;R&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterNotNullTo(kotlin.Sequence&lt;? extends T&gt;, C) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FlatteningSequence FlatteningSequence(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;, kotlin.jvm.functions.Function1&lt;? super R,? extends java.util.Iterator&lt;? extends E&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,V&gt; toMapBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.lang.String joinToString(kotlin.Sequence&lt;? extends T&gt;, java.lang.String, java.lang.String, java.lang.String, int, java.lang.String, kotlin.jvm.functions.Function1&lt;? super T,java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,T&gt; toMapBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TakeWhileSequence kotlin.Sequence access$getSequence$p(kotlin.sequences.TakeWhileSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt___SequencesKt.filterIsInstance.1 INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,V&gt; toMapBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends V&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; minus(kotlin.Sequence&lt;? extends T&gt;, java.lang.Iterable&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.MergingSequence MergingSequence(kotlin.Sequence&lt;? extends T1&gt;, kotlin.Sequence&lt;? extends T2&gt;, kotlin.jvm.functions.Function2&lt;? super T1,? super T2,? extends V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterNotNullTo(kotlin.Sequence&lt;? extends T&gt;, C) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.IndexingSequence java.util.Iterator&lt;kotlin.IndexedValue&lt;T&gt;&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T findLast(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.DistinctIterator DistinctIterator(java.util.Iterator&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterIsInstanceTo(kotlin.Sequence&lt;?&gt;, C) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TransformingIndexedSequence kotlin.jvm.functions.Function2 access$getTransformer$p(kotlin.sequences.TransformingIndexedSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterNotTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; flattenSequenceOfIterable(kotlin.Sequence&lt;? extends java.lang.Iterable&lt;? extends T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt float sumOfFloat(kotlin.Sequence&lt;java.lang.Float&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt int lastIndexOfAny(kotlin.Sequence&lt;? extends T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FlatteningSequence java.util.Iterator&lt;E&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.DropSequence java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; sortedBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterIsInstanceTo(kotlin.Sequence&lt;?&gt;, C, java.lang.Class&lt;R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FlatteningSequence kotlin.jvm.functions.Function1 access$getIterator$p(kotlin.sequences.FlatteningSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T minBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; takeWhile(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt void forEach(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T findLast(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt int count(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterIsInstanceTo(kotlin.Sequence&lt;?&gt;, C) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterNotNullTo(kotlin.Sequence&lt;? extends T&gt;, C)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.SortedSet&lt;T&gt; toSortedSet(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; plus(kotlin.Sequence&lt;? extends T&gt;, T[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; filterNot(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.FilteringSequence kotlin.jvm.functions.Function1 access$getPredicate$p(kotlin.sequences.FilteringSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.GeneratorSequence kotlin.jvm.functions.Function1 access$getGetNextValue$p(kotlin.sequences.GeneratorSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T singleOrNull(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterIsInstanceTo(kotlin.Sequence&lt;?&gt;, C, java.lang.Class&lt;R&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt void forEach(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;R&gt; filterIsInstance(kotlin.Sequence&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T lastOrNull(kotlin.Sequence&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt boolean containsRaw(kotlin.Sequence&lt;?&gt;, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C filterIsInstanceTo(kotlin.Sequence&lt;?&gt;, C, java.lang.Class&lt;R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; asSequence(java.util.Enumeration&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TransformingSequence kotlin.Sequence&lt;E&gt; flatten$kotlin_stdlib(kotlin.jvm.functions.Function1&lt;? super R,? extends java.util.Iterator&lt;? extends E&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt C flatMapTo(kotlin.Sequence&lt;? extends T&gt;, C, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Sequence&lt;? extends R&gt;&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt boolean none(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.SortedSet&lt;T&gt; toSortedSet(kotlin.Sequence&lt;? extends T&gt;, java.util.Comparator&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,java.util.List&lt;T&gt;&gt; groupBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt java.util.Map&lt;K,V&gt; toMapOfPairs(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends kotlin.Pair&lt;? extends K,? extends V&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.MergingSequence.iterator.1 java.util.Iterator&lt;T1&gt; getIterator1()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;R&gt; mapIndexed(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,? extends R&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.DistinctSequence DistinctSequence(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends K&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.TakeSequence int access$getCount$p(kotlin.sequences.TakeSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.GeneratorSequence kotlin.jvm.functions.Function1 access$getGetNextValue$p(kotlin.sequences.GeneratorSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; sequence(T, kotlin.jvm.functions.Function1&lt;? super T,? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; minus(kotlin.Sequence&lt;? extends T&gt;, kotlin.Sequence&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; sortedByDescending(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt int indexOfFirst(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,java.lang.Boolean&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt kotlin.Sequence&lt;T&gt; sequence(T, kotlin.jvm.functions.Function1&lt;? super T,? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.sequences.SequencesKt T minBy(kotlin.Sequence&lt;? extends T&gt;, kotlin.jvm.functions.Function1&lt;? super T,? extends R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
